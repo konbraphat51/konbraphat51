@@ -5,8 +5,8 @@
 
 ## Ability
 * HSP language (advanced, 2012-; 2D game)
-* Python (advanced, 2021-; data science, web server, scientific calculus, AI)
-* C#, Unity (intermediate, 2021-; 2D, 3D game / physics simulations)
+* Python (maybe advanced, 2021-; data science, web server, scientific calculus, AI)
+* C#, Unity (maybe advanced, 2021-; 2D, 3D game / physics simulations)
 * JavaScript (pre-intermediate, 2022-; 2D game / web frontend)
 * Go, Gin (beginner, 2022-; server)
 * Vue (pre-intermediate, 2022-; web frontend)
@@ -15,5 +15,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konbraphat51&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
 
+## Religion
+* No `;` for JavaScript.
+* Method names should be verbs.
+
 ## SNS
-Qiita (Japanese Blog) : https://qiita.com/konbraphat51
+Qiita (Japanese Blog): https://qiita.com/konbraphat51
