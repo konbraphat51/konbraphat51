@@ -10,12 +10,12 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 
 ## Ability
 * HSP language (advanced, 2012-; 2D game)
-* Python (maybe advanced, 2021-; data science, web server, scientific calculus, AI)
+* Python (maybe advanced, 2021-; data science, API server, scientific calculus, AI)
 * C#, Unity (maybe advanced, 2021-; 2D, 3D game / physics simulations)
 * JavaScript (pre-intermediate, 2022-; 2D game / web frontend)
-* Go, Gin (beginner, 2022-; server)
+* Go, Gin (beginner, 2022-; API server)
 * Vue (pre-intermediate, 2022-; web frontend)
-* PHP, Laravel (beginner, 2023-; web server)
+* PHP, Laravel (beginner, 2023-; API server)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konbraphat51&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
