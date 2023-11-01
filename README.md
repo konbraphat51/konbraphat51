@@ -3,6 +3,11 @@
 * Game engineering
 * NLP data science (Japanese / Thai)
 
+## How to read?
+Jp: こんぶらふぁっと  
+https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82%89%E3%81%B5%E3%81%81%E3%81%A3%E3%81%A8&op=translate  
+
+
 ## Ability
 * HSP language (advanced, 2012-; 2D game)
 * Python (maybe advanced, 2021-; data science, web server, scientific calculus, AI)
