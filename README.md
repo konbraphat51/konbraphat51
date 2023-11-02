@@ -25,6 +25,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 * No `;` for JavaScript.
 * Method names should be verbs.
 * Comments cannot be too much.
+* Use English unless all users are Japanese.
 
 ## SNS
 Qiita (Japanese Blog): https://qiita.com/konbraphat51
