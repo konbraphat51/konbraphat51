@@ -27,6 +27,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 * Comments cannot be too much.
 * Use English unless all users are Japanese.
 * Comments don't need a period
+* Reusable modules make humanity happy.
 * Coding is fun.
 
 ## SNS
