@@ -9,7 +9,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 
 
 ## Ability
-* HSP language (advanced, 2012-; 2D game)
+* HSP language (advanced, 2014-; 2D game)
 * Python (maybe advanced, 2021-; data science, web scraping, API server, scientific calculus, AI)
 * C#, Unity (maybe advanced, 2021-; 2D, 3D game / physics simulations)
 * JavaScript (pre-intermediate, 2022-; 2D game / web frontend)
