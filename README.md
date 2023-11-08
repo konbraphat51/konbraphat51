@@ -14,7 +14,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
   * pythainlp (maybe advanced, 2022-; Thai NLP)
 * C#(advanced, 2021-; computer science research)
   * Unity (intermediate, 2021-; 2D, 3D game / physics simulations)
-* JavaScript (maybe advanced, 2022-; 2D game / web frontend)
+* JavaScript (intermediate, 2022-; 2D game / web frontend)
   * Vue (pre-intermediate, 2022-; web frontend)
 * Go (beginner, 2022-; API server)
   * Gin (beginner, 2022-; API server)
