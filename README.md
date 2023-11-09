@@ -20,7 +20,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
   * Gin (beginner, 2022-; API server)
 * PHP (beginner, 2022-; API/web server)
   * Laravel (beginner, 2023-; API server)
-* HTML (beginner, 2021-; web frontend)
+* HTML, CSS (beginner, 2021-; web frontend)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konbraphat51&count_private=true&show_icons=true&langs_count=10&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
