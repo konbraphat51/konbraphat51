@@ -28,7 +28,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 
 ## Religion
 * No `;` for JavaScript.
-* Method names should be verbs.
+* Method names should be verbs, nouns for others. Adjectives postpositive. (Regarding ABC order of them)
 * Comments cannot be too much.
 * Use English unless all users are Japanese.
 * Comments don't need a period
