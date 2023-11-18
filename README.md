@@ -47,6 +47,7 @@ Qiita (Japanese Blog): https://qiita.com/konbraphat51
 ### pythainlp
 Contributing  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=pythainlp)](https://github.com/anuraghazra/github-readme-stats)
+
 Fixed: newmm tokenizer  
 Added: remove_trailing_repeat_consonants()
 
