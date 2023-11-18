@@ -42,7 +42,8 @@ Qiita (Japanese Blog): https://qiita.com/konbraphat51
 ## Activity
 
 ### HotSoupScript
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=HotSoupScript)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=HotSoupScript)](https://github.com/anuraghazra/github-readme-stats)  
+[初心者向けゲームプログラミングJavaScriptライブラリを作り、講座をした](https://qiita.com/konbraphat51/items/b138683db352afd77714)
 
 ### pythainlp
 Contributing  
