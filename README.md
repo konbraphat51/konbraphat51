@@ -37,3 +37,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 
 ## SNS
 Qiita (Japanese Blog): https://qiita.com/konbraphat51
+
+
+## Activity
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=konbraphat51)](https://github.com/anuraghazra/github-readme-stats)
