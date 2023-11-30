@@ -52,5 +52,8 @@ Contributing
 Fixed: newmm tokenizer  
 Added: remove_trailing_repeat_consonants()
 
+### RomanDictionary
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=RomanDictionary)](https://github.com/anuraghazra/github-readme-stats)  
+
 ### Simple development time (By Personal VSCode)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=konbraphat51&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20From%202023_11_30)](https://github.com/anuraghazra/github-readme-stats)
