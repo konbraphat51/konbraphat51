@@ -49,8 +49,9 @@ Qiita (Japanese Blog): https://qiita.com/konbraphat51
 Contributing  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PyThaiNLP&repo=pythainlp)](https://github.com/anuraghazra/github-readme-stats)
 
-Fixed: newmm tokenizer  
-Added: remove_trailing_repeat_consonants()
+Fixed: newmm tokenizer[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/856)  
+Added: remove_trailing_repeat_consonants()[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/862)  
+Added: wikipedia_titles()[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/869), volubilis()[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/870)  
 
 ### RomanDictionary
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=RomanDictionary)](https://github.com/anuraghazra/github-readme-stats)  
