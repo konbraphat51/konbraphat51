@@ -26,6 +26,9 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konbraphat51&count_private=true&show_icons=true&langs_count=10&hide=html,shaderlab,hlsl,mathematica&size_weight=0.2&count_weight=0.8&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
 
+### Certifications
+* [Database Specialist](https://www.ipa.go.jp/en/it-examinations/nph2g600000007uh-att/000009643.pdf) certificated by Japanese government (IPA). (2023)
+
 ## Religion
 * No `;` for JavaScript.
 * Method names should be verbs, nouns for others. Adjectives postpositive. (Regarding ABC order of them)
