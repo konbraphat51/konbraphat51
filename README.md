@@ -47,7 +47,7 @@ Qiita (Japanese Blog): https://qiita.com/konbraphat51
 ## Activity
 
 ### HotSoupScript
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=HotSoupScript)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=HotSoupScript)](https://github.com/konbraphat51/HotSoupScript)  
 [初心者向けゲームプログラミングJavaScriptライブラリを作り、講座をした](https://qiita.com/konbraphat51/items/b138683db352afd77714)
 
 ### pythainlp
@@ -59,7 +59,10 @@ Added: remove_trailing_repeat_consonants()[[PR]](https://github.com/PyThaiNLP/py
 Added: wikipedia_titles()[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/869), volubilis()[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/870)  
 
 ### RomanDictionary
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=RomanDictionary)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=RomanDictionary)](https://github.com/konbraphat51/RomanDictionary)  
+
+### RecknerCamera
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=RecknerCamera)](https://github.com/konbraphat51/ReckonerCamera) 
 
 ### Simple development time (By Personal VSCode)
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=konbraphat51&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20From%202023_11_30)](https://github.com/anuraghazra/github-readme-stats)
