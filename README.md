@@ -3,10 +3,18 @@
 * Game engineering
 * NLP data science (Japanese / Thai)
 
+## Available Language
+### Fluent
+* Japanese (Native)
+* US English (Native, not second-language)
+
+### Not fluent
+* Thai (Good at just only reading, cannot speak/write well)
+* Italiano (just only a bit)
+
 ## How to read?
 Jp: こんぶらふぁっと  
 https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82%89%E3%81%B5%E3%81%81%E3%81%A3%E3%81%A8&op=translate  
-
 
 ## Ability
 * HSP language (advanced, 2014-; 2D game)
