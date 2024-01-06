@@ -74,7 +74,8 @@ Added: remove_trailing_repeat_consonants()[[PR]](https://github.com/PyThaiNLP/py
 Added: wikipedia_titles()[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/869), volubilis()[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/870)  
 
 ### RomanDictionary
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=RomanDictionary)](https://github.com/konbraphat51/RomanDictionary)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=RomanDictionary)](https://github.com/konbraphat51/RomanDictionary)   
+![image](https://github.com/konbraphat51/konbraphat51/assets/101827492/1e60f038-b7aa-4cb3-8339-4e79c6817fc1)
 
 ### ReckonerCamera
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=ReckonerCamera)](https://github.com/konbraphat51/ReckonerCamera) 
