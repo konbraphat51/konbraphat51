@@ -55,10 +55,12 @@ Qiita (Japanese Blog): https://qiita.com/konbraphat51
 ## Activity
 
 ### HotSoupScript
+Head Author  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=HotSoupScript)](https://github.com/konbraphat51/HotSoupScript)  
 [初心者向けゲームプログラミングJavaScriptライブラリを作り、講座をした](https://qiita.com/konbraphat51/items/b138683db352afd77714)
 
 ### AnimatedWordCloud
+Head Author  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=AnimatedWordCloud)](https://github.com/konbraphat51/AnimatedWordCloud) 
 ![image](https://github.com/konbraphat51/AnimatedWordCloud/assets/101827492/89052c20-b228-42d8-921e-ebae9f7e30a0)
 
