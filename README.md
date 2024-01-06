@@ -57,13 +57,12 @@ Qiita (Japanese Blog): https://qiita.com/konbraphat51
 ### HotSoupScript
 Head Author  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=HotSoupScript)](https://github.com/konbraphat51/HotSoupScript)  
-[初心者向けゲームプログラミングJavaScriptライブラリを作り、講座をした](https://qiita.com/konbraphat51/items/b138683db352afd77714)　　
-![Uploading sasa_20240106_235508.gif…]()
-
+[初心者向けゲームプログラミングJavaScriptライブラリを作り、講座をした](https://qiita.com/konbraphat51/items/b138683db352afd77714)  　
+![sasa_20240106_235508](https://github.com/konbraphat51/konbraphat51/assets/101827492/e45e3604-d0a5-4578-b22e-649fcc169ba9)
 
 ### AnimatedWordCloud
 Head Author  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=AnimatedWordCloud)](https://github.com/konbraphat51/AnimatedWordCloud) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=AnimatedWordCloud)](https://github.com/konbraphat51/AnimatedWordCloud)  
 ![image](https://github.com/konbraphat51/AnimatedWordCloud/assets/101827492/89052c20-b228-42d8-921e-ebae9f7e30a0)
 
 ### pythainlp
