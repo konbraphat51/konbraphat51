@@ -57,7 +57,9 @@ Qiita (Japanese Blog): https://qiita.com/konbraphat51
 ### HotSoupScript
 Head Author  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=HotSoupScript)](https://github.com/konbraphat51/HotSoupScript)  
-[初心者向けゲームプログラミングJavaScriptライブラリを作り、講座をした](https://qiita.com/konbraphat51/items/b138683db352afd77714)
+[初心者向けゲームプログラミングJavaScriptライブラリを作り、講座をした](https://qiita.com/konbraphat51/items/b138683db352afd77714)　　
+![Uploading sasa_20240106_235508.gif…]()
+
 
 ### AnimatedWordCloud
 Head Author  
