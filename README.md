@@ -63,7 +63,8 @@ Head Author
 ### AnimatedWordCloud
 Head Author  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=AnimatedWordCloud)](https://github.com/konbraphat51/AnimatedWordCloud)  
-![image](https://github.com/konbraphat51/AnimatedWordCloud/assets/101827492/89052c20-b228-42d8-921e-ebae9f7e30a0)
+![ezgif-3-b757a4ba2e](https://github.com/konbraphat51/konbraphat51/assets/101827492/0ccefd62-3601-4e4b-80f4-d6bf7d114f95)  
+[Animate the timelapse of 2023](https://medium.com/@konbraphat/animate-the-timelapse-of-2023-51dcfb2f862b)
 
 ### pythainlp
 Contributing  
