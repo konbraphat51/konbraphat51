@@ -3,6 +3,7 @@
 * Game engineering
 * NLP data science (Japanese / Thai)
 * Internship at some Game company (Front&Backend) and some automobile company (NLP market analysis)
+* RA at [Gratitute School of Public Policy](https://www.pp.u-tokyo.ac.jp/)
 
 ## Available Language
 ### Fluent
