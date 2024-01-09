@@ -2,7 +2,7 @@
 21 years old. Junior of the University of Tokyo. 9 years developer.
 * Game engineering
 * NLP data science (Japanese / Thai)
-* Internship at some Game company (Front&Backend) and some automobile company (NLP market analysis)
+* Internship at some Game company (Front&Backend) and some automobile company (Thai NLP market analysis)
 * Research Assitance at [Gratitute School of Public Policy](https://www.pp.u-tokyo.ac.jp/)
 
 ## Available Language
