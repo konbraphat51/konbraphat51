@@ -45,7 +45,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 * Comments cannot be too much.
 * Use English unless all users are Japanese.
 * Comments don't need a period
-* Coding is for making my and your satisfaction, not for money. (So please stop talking businessy things to me)
+* Coding is for making my and your satisfaction, not for money.
 
 ## SNS
 Qiita (Japanese Blog): https://qiita.com/konbraphat51
