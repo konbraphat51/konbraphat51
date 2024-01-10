@@ -43,6 +43,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 
 ## Religion
 * No `;` for JavaScript.
+* No 1-letter variables. Write `cnt` as a counter variable of `for` loop.
 * Method names should be verbs, nouns for others. Adjectives postpositive. (Regarding ABC order of them)  
   [Sakurai; ファイル名は合理的に 【プログラム・テクニカル】](https://www.youtube.com/watch?v=V40sMUAE5ek)
 * Comments cannot be too much.
