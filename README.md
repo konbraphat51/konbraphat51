@@ -52,8 +52,8 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 * Coding is for making my and your satisfaction, not for money.
 
 ## SNS
-Qiita (Japanese Blog): https://qiita.com/konbraphat51
-
+- Email: konbraphat51[gmail domain]
+- Qiita (Japanese Blog): https://qiita.com/konbraphat51
 
 ## Activity
 
