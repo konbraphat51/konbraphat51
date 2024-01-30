@@ -30,8 +30,8 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 * Go (beginner, 2022-; API server)
   * Gin (beginner, 2022-; API server)
 * PHP (beginner, 2022-; API/web server)
-  * Laravel (beginner, 2023-; API server)
-* HTML, CSS (beginner, 2021-; web frontend)
+  * Laravel (pre-intermediate, 2023-; API server)
+* HTML, CSS (pre-intermediate, 2021-; web frontend)
 * AWS (beginner, 2024-; API server)
   * Lambda (beginner, 2024-; REST API)
 
