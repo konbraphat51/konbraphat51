@@ -22,6 +22,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 * HSP language (advanced, 2014-; 2D game)
 * Python (advanced, 2021-; data science, web scraping, API server, scientific calculus, AI, TCP server)
   * pythainlp (maybe advanced, 2022-; Thai NLP, sometimes contributing)
+  * Rasberry Pi Pico (Beginner, 2024-; easy device)
 * C#(advanced, 2021-; academic research)
   * Unity (intermediate, 2021-; 2D, 3D game / physics simulations)
 * JavaScript (intermediate, 2022-; 2D game / web frontend)
