@@ -36,7 +36,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 * HTML, CSS (pre-intermediate, 2021-; web frontend)
 * AWS (beginner, 2024-; API server)
   * Lambda (beginner, 2024-; REST API)
-* Fortran (beginner, 2024-; Class. Please never force me to write or read this again)
+* Fortran (beginner, 2024-; course-work. Please never force me to write or read this again)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konbraphat51&count_private=true&show_icons=true&langs_count=10&hide=html,shaderlab,hlsl,mathematica&size_weight=0.2&count_weight=0.8&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
