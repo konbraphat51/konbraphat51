@@ -1,4 +1,4 @@
-![image](https://github.com/konbraphat51/konbraphat51/assets/101827492/b36d084f-7227-401d-9e29-d1454637dd3b)# Konbraphat51
+# Konbraphat51
 22 years old. Junior of the University of Tokyo. 10 years developer. 
 * Game engineering / research
 * NLP data science (Japanese / Thai)
