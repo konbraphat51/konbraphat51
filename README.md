@@ -1,5 +1,5 @@
 # Konbraphat51
-22 years old. 10 years developer. 
+22 years old.  10 years developer. 
 * Senior of [Faculty of Engineering](https://www.t.u-tokyo.ac.jp/en/foe), [the University of Tokyo](https://www.u-tokyo.ac.jp/en/)
 * Game engineering / research
 * NLP data science (Japanese / Thai)
