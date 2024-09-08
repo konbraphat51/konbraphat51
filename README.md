@@ -75,7 +75,7 @@ Head Author
 Head Author  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=AnimatedWordCloud)](https://github.com/konbraphat51/AnimatedWordCloud)  
 ![ezgif-3-b757a4ba2e](https://github.com/konbraphat51/konbraphat51/assets/101827492/0ccefd62-3601-4e4b-80f4-d6bf7d114f95)  
-[Animate the timelapse of 2023](https://medium.com/@konbraphat/animate-the-timelapse-of-2023-51dcfb2f862b)
+[Animate the Guardian timelapse of 2023](https://medium.com/@konbraphat/animate-the-timelapse-of-2023-51dcfb2f862b)
 
 ### EnglishExamForever
 Only Author
