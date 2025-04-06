@@ -106,4 +106,4 @@ Added: wikipedia_titles()[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/869)
 [Click to see](https://konbraphat51.github.io/ChanwaangReviews/#/)
  
 ### Simple development time (By Personal VSCode; excluding for work)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=konbraphat51&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20From%20last%20%one%20year)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=konbraphat51&api_domain=wakapi.dev&bg_color=1A202C&title_color=2F855A&icon_color=2F855A&text_color=ffffff&custom_title=Wakapi%20For%20last%20%one%20year)](https://github.com/anuraghazra/github-readme-stats)
