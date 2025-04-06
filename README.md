@@ -57,6 +57,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
   [Sakurai; ファイル名は合理的に 【プログラム・テクニカル】](https://www.youtube.com/watch?v=V40sMUAE5ek)
 * Comments cannot be too much.
 * Use English unless all users are Japanese.
+* Use `pnpm`. `npm` ruins my SSD.
 * Comments don't need a period
 * Code what you love, love what you code.
 
