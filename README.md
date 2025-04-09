@@ -1,13 +1,14 @@
 # Konbraphat51
 22 years old.  11 years developer. 
 * First year in master's degree program in [Graduate School of Interdisciplinary Information Studies, The University of Tokyo](https://www.iii.u-tokyo.ac.jp/)
-* Game engineering / research / psychology
+* Game engineering / psychology / research
 * NLP data science (Japanese / Thai)
-* Research Assistant at [The University of Tokyo: Gratitude School of Public Policy](https://www.pp.u-tokyo.ac.jp/)
-* WAS interning at some automobile company (Thai NLP market analysis)
-* WAS Internship at some Game company (R&D)
+* Research Assistant at [The University of Tokyo: Gratitude School of Public Policy](https://www.pp.u-tokyo.ac.jp/) (Python datascience for finance)
+* Interning at some software company (Golang server programming)
+* InternED at some automobile company (Thai NLP market analysis)
+* InternED at some game company (Unity + Laravel + R&D)
 
-## Available Language
+## Available Languages
 ### Fluent
 * Japanese (Native)
 * US English (Native, not second-language)
@@ -38,9 +39,9 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 * HTML, CSS (pre-intermediate, 2021-; web frontend)
 * AWS (beginner, 2024-; API server)
   * Lambda (pre-intermediate, 2024-; REST API)
-* Fortran (beginner, 2024-; course-work. Please never force me to write or read this again)
+* Fortran (beginner, 2024-; course-work. Please never force me to use this again)
 * CUDA (beginner, 2024-; Game AI)
-* TypeScript (beginner, 2025-; library)
+* TypeScript (beginner, 2025-; library making)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konbraphat51&count_private=true&show_icons=true&langs_count=10&hide=html,shaderlab,hlsl,mathematica&size_weight=0.2&count_weight=0.8&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
