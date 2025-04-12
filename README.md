@@ -56,10 +56,11 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 * No 1-letter variables. Write `cnt` as a counter variable of `for` loop.
 * Method names should be verbs, nouns for others. Adjectives postpositive. (Regarding ABC order of them)  
   [Sakurai; ファイル名は合理的に 【プログラム・テクニカル】](https://www.youtube.com/watch?v=V40sMUAE5ek)
-* Comments cannot be too much.
 * Use English unless all users are Japanese.
 * Use `pnpm`. `npm` ruins my SSD.
 * Comments don't need a period
+* comments don't need sentence capitalization.
+* Comments cannot be too much.
 * Code what you love, love what you code.
 
 ## SNS
