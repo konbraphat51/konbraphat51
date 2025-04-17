@@ -47,9 +47,9 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 )](https://github.com/anuraghazra/github-readme-stats)
 
 ### Certifications
-* [Database Specialist](https://www.ipa.go.jp/en/it-examinations/nph2g600000007uh-att/000009643.pdf) certificated by Japanese government (IPA). (2023)  
+* [Database Specialist](https://www.ipa.go.jp/en/it-examinations/nph2g600000007uh-att/000009643.pdf) certified by the Japanese government (IPA). (2023)  
 [![DB](https://unofficial-ipa-exam-badges.vercel.app/en/card/db/2023/Autumn)](https://github.com/kedama-t/Unofficial-IPA-Exam-Badges)
-
+* [Certified Psychologist](https://psych.or.jp/english/certification) certified by the Japanese Psychological Association.
 
 ## Religion
 * No `;` for JavaScript.
