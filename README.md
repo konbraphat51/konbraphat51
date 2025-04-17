@@ -50,6 +50,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 * [Database Specialist; 高度情報処理技術者 (データベース)](https://www.ipa.go.jp/en/it-examinations/nph2g600000007uh-att/000009643.pdf) certified by the Japanese government (IPA). (2023)  
 [![DB](https://unofficial-ipa-exam-badges.vercel.app/en/card/db/2023/Autumn)](https://github.com/kedama-t/Unofficial-IPA-Exam-Badges)
 * [Certified Psychologist; 認定心理士](https://psych.or.jp/english/certification) certified by the Japanese Psychological Association.
+[![Assosiation](https://psych.or.jp/wp-content/themes/psych_wp/images/footerLogo.png)](https://psych.or.jp/qualification/)
 
 ## Religion
 * No `;` for JavaScript.
