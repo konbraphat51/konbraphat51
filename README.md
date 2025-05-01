@@ -1,5 +1,5 @@
 # Konbraphat51
-22 years old.  11 years developer. 
+23 years old.  11 years developer. 
 * First year in master's degree program in [Graduate School of Interdisciplinary Information Studies, The University of Tokyo](https://www.iii.u-tokyo.ac.jp/)
 * Game engineering / psychology / research
 * NLP data science (Japanese / Thai)
