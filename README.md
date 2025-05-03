@@ -52,7 +52,8 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 [![DB](https://unofficial-ipa-exam-badges.vercel.app/en/card/db/2023/Autumn)](https://github.com/kedama-t/Unofficial-IPA-Exam-Badges)
 * [Certified Psychologist; 認定心理士](https://psych.or.jp/english/certification) certified by the Japanese Psychological Association.
 [![Assosiation](https://psych.or.jp/wp-content/themes/psych_wp/images/footerLogo.png)](https://psych.or.jp/qualification/)
-* [AtCoder; WaterBlue (水色)](https://atcoder.jp/users/konbu9640)[![konbu9640](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fkonbu9640)](https://atcoder.jp/users/konbu9640)
+* [AtCoder; WaterBlue (水色)](https://atcoder.jp/users/konbu9640)  
+  [![konbu9640](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fkonbu9640)](https://atcoder.jp/users/konbu9640)
 
 ## Religion
 * No `;` for JavaScript.
