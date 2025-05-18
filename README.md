@@ -36,7 +36,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
   * Gin (pre-intermediate, 2022-; API server)
 * PHP (beginner, 2022-; API/web server)
   * Laravel (beginner, 2023-; API server)
-* C++ (pre-intermediate, 2016-; programming contest)]
+* C++ (pre-intermediate, 2016-; programming contest)
   * CUDA (beginner, 2024-; Game AI)
 * HTML, CSS (pre-intermediate, 2021-; web frontend)
 * AWS (beginner, 2024-; API server)
