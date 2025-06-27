@@ -15,7 +15,7 @@
 
 ### Not fluent
 * Thai (Good at just only reading, cannot speak/write well)
-* Italiano (just only a bit)
+* Italiano (Only a bit)
 
 ## How to read?
 Jp: こんぶらふぁっと  
