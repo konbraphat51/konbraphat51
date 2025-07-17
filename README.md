@@ -4,9 +4,10 @@
 * Game engineering / psychology / research
 * NLP data science (Japanese / Thai)
 * Research Assistant at [The University of Tokyo: Gratitude School of Public Policy](https://www.pp.u-tokyo.ac.jp/) (Python datascience for finance)
-* Interning at some software company (Golang server programming)
-* InternED at some automobile company (Thai NLP market analysis)
-* InternED at some game company (Unity + Laravel + R&D)
+* Interning at some software company (Unity programming)
+* Interned at some software company (Golang server programming)
+* Interned at some automobile company (Thai NLP market analysis)
+* Interned at some game company (Unity + Laravel + R&D)
 
 ## Available Languages
 ### Fluent
