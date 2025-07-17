@@ -65,6 +65,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
   [Sakurai; ファイル名は合理的に 【プログラム・テクニカル】](https://www.youtube.com/watch?v=V40sMUAE5ek)
 * Use English unless all users are Japanese.
 * Use `pnpm`. `npm` ruins my SSD.
+* Windows is the best OS.
 * Comments don't need a period
 * comments don't need sentence capitalization.
 * Comments cannot be too much.
