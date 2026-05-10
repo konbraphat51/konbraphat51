@@ -27,13 +27,10 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 ## Ability
 * HSP language (advanced, 2014-; 2D game)
 * Python (advanced, 2021-; data science, web scraping, API server, scientific calculus, AI, TCP server)
-  * pythainlp (maybe advanced, 2022-; Thai NLP, sometimes contributing)
-  * Raspberry Pi Pico (Beginner, 2024-; easy device)
 * C#(advanced, 2021-; academic research)
   * Unity (intermediate, 2021-; 2D, 3D game / physics simulations / editor scripting)
 * JavaScript (advanced, 2022-; 2D game / web frontend)
   * Vue (intermediate, 2022-; web frontend)
-  * HotSoupScript (author, 2023-; 2D game, 2D physics)
   * React (beginner, 2023-; web frontend)
 * Go (intermediate, 2022-; API server, AWS Lambda)
   * Gin (pre-intermediate, 2022-; API server)
@@ -45,7 +42,7 @@ https://translate.google.com/?sl=ja&tl=th&text=%E3%81%93%E3%82%93%E3%81%B6%E3%82
 * AWS (beginner, 2024-; API server)
   * Lambda (intermediate, 2024-; REST API)
 * Fortran (beginner, 2024-; coursework. Please never force me to use this again)
-* TypeScript (pre-intermediate, 2025-; library making)
+* TypeScript (intermediate, 2025-; library making)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Konbraphat51&count_private=true&show_icons=true&langs_count=10&hide=html,shaderlab,hlsl,mathematica&size_weight=0.2&count_weight=0.8&theme=onedark
 )](https://github.com/anuraghazra/github-readme-stats)
