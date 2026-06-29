@@ -113,3 +113,6 @@ Added: wikipedia_titles()[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/869)
 ### UnityPythonConnectionModules
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=UnityPythonConnectionModules)](https://github.com/konbraphat51/UnityPythonConnectionModules) 
 
+---
+
+加藤純一氏の昨今の言動に対し賛同できないため、加藤純一関連のレポジトリを全て削除しました。
