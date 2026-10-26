@@ -113,6 +113,9 @@ Added: wikipedia_titles()[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/869)
 ### UnityPythonConnectionModules
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=konbraphat51&repo=UnityPythonConnectionModules)](https://github.com/konbraphat51/UnityPythonConnectionModules) 
 
+## Treasure Chest
+- [My CLAUDE.md template](https://gist.github.com/konbraphat51/af909a374c59d306c2d2b3fd7788507e)
+
 ---
 
 加藤純一氏の昨今の右派ポピュリズム的言動に対し賛同できないため、加藤純一関連のレポジトリを全て削除しました。
