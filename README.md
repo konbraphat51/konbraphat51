@@ -1,4 +1,4 @@
-# Konbraphat51 v2026.10.26
+# Konbraphat51 v2026.11.06
 24 years old. 12 years developer. 
 * Second year in master's degree program in [Graduate School of Interdisciplinary Information Studies, The University of Tokyo](https://www.iii.u-tokyo.ac.jp/)
 * B.Eng. from [Faculty of Engineering](https://www.t.u-tokyo.ac.jp/), the University of Tokyo
@@ -118,4 +118,4 @@ Added: wikipedia_titles()[[PR]](https://github.com/PyThaiNLP/pythainlp/pull/869)
 
 ---
 
-加藤純一氏の昨今の右派ポピュリズム的、浅慮な排外主義的言動に対し賛同できないため、加藤純一関連のレポジトリを全て削除しました。
+加藤純一氏の昨今の右派ポピュリズム的、浅慮な排外主義的言動（"冗談"以外の言動）に対し賛同できないため、加藤純一関連のレポジトリを全て削除しました。
